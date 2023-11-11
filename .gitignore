@@ -1,0 +1,10 @@
+images/*
+!images/.gitkeep
+
+input_md_files/*
+!input_md_files/.gitkeep
+
+output_md_files/*
+!output_md_files/.gitkeep
+
+**/__pycache__/
